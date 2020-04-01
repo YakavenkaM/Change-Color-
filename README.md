@@ -1,6 +1,8 @@
 # Change-Color-
 Android app written in Java for Web Apps class at Brooklyn College
-The app prompts user for a color and changes the color of specified png graphic
+Requirement: Write JAVA program to change a color of a drawable object via keyboard or mouse input.
+
+The app prompts user for a color and changes the color of specified png graphic used as a drawable android resource.
 
 # Build gradle config detail
 Required software:
