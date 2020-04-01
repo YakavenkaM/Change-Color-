@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChangeColorJava</string>
+    <string name="action_settings">Settings</string>
+    <string name="backgroundMain">background</string>
+    <string name="change_color">Change Color</string>
+    <string name="title">This application is intended to demonstrate change of color on the given logo. The logo is a
+        png image that was created and set into a ImageView object.\n
+    </string>
+    <string name="supported_colors">Supported colors:\n green, red, blue, yellow, purple, pink, brown, gold, silver
+    </string>
+</resources>
